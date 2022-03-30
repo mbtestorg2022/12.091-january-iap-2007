@@ -5,6 +5,7 @@ description: This resource discusses radon concentrations in caves, radon concen
   landed buildings and high rises.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/f3e7ff6480ff1d9b4fa5e4249501e5d4_session5.pdf
 file_type: application/pdf
+parent_uid: f2cf3e04-9688-f12f-3911-a160be08bab0
 resourcetype: Document
 title: session5.pdf
 uid: f3e7ff64-80ff-1d9b-4fa5-e4249501e5d4

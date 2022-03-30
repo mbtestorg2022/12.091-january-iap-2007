@@ -5,6 +5,7 @@ description: 'Example of a student''s project presentation covering the followin
   from clay bricks.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/6edc8c0f92d2aa2e3b4157509e3849a0_report.pdf
 file_type: application/pdf
+parent_uid: 46891d11-176c-29b0-573b-d0a8f8adea57
 resourcetype: Document
 title: report.pdf
 uid: 6edc8c0f-92d2-aa2e-3b41-57509e3849a0
